@@ -12,7 +12,7 @@
 - **Años de Estudio**: 2013-2019
 
 ## Habilidades
-- **Habilidad 1** Amplios conocimientos en lenguajes de programación: C#, C++ y Python.
+- **Habilidad 1** Conocimientos básicos en lenguajes de programación: C#, C++ y Python.
 - **Habilidad 2** Manejo básico del paquete Microsoft Office.
 - **Habilidad 3** Manejo básico del Inglés.
 
