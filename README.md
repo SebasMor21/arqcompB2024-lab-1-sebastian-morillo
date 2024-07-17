@@ -4,12 +4,12 @@
 - **Nombre Completo**: Sebastian Andres Morillo Triviño.
 - **Correo Electrónico**: sebasmortri1@gmail.com
 - **Teléfono**: 04145336954
-- **Dirección**: 
+- **Dirección**: Conjunto Residencial Campo Neblina, Av. Alberto Carnevali, Mérida, Venezuela.
 
 ## Educación
-- **Institución**: [Nombre de la Institución]
-- **Grado Académico**: [Grado Obtenido]
-- **Años de Estudio**: [Año de Inicio - Año de Fin]
+- **Institución**: Colegio Privado Las Acacias.
+- **Grado Académico**: Bachiller.
+- **Años de Estudio**: 2013-2019
 
 ## Experiencia Laboral
 - **Empresa**: [Nombre de la Empresa]
@@ -26,13 +26,13 @@
 - **Habilidad 3**
 
 ## Proyectos
-- **Proyecto 1**: [Nombre del Proyecto]
-  - **Descripción**: [Breve descripción del proyecto]
-  - **Tecnologías Utilizadas**: [Tecnologías]
+- **Proyecto 1**: Wild Words.
+  - **Descripción**: Juego de trivia interactivo que utiliza tecnología de reconocimiento de voz.
+  - **Tecnologías Utilizadas**: C#.
 
-- **Proyecto 2**: [Nombre del Proyecto]
-  - **Descripción**: [Breve descripción del proyecto]
-  - **Tecnologías Utilizadas**: [Tecnologías]
+- **Proyecto 2**: Sistema Empresarial.
+  - **Descripción**: Sistema de gestión empresarial que abarca la administración de empresas, empleados y la generación de facturas.
+  - **Tecnologías Utilizadas**: C#
 
 ## Intereses
 - **Interés 1**
