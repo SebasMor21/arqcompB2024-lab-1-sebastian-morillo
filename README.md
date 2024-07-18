@@ -21,7 +21,7 @@
   - **Descripción**: Juego de trivia interactivo que utiliza tecnología de reconocimiento de voz.
   - **Tecnologías Utilizadas**: C#.
   - **Puesto**: Desarrollador.
-  - - **Responsabilidades**:
+  - **Responsabilidades**:
     - Desarrollo de la lógica principal del juego.
     - Quality Assurance.
 
@@ -29,7 +29,7 @@
   - **Descripción**: Sistema de gestión empresarial que abarca la administración de empresas, empleados y la generación de facturas.
   - **Tecnologías Utilizadas**: C#
   - **Puesto**: Desarrollador.
-  - - **Responsabilidades**:
+  - **Responsabilidades**:
     - Desarrollo de la lógica principal del Sistema.
     - Quality Assurance.
 
