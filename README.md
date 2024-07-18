@@ -9,7 +9,16 @@
 ## Educación
 - **Institución**: Colegio Privado Las Acacias.
 - **Grado Académico**: Bachiller en ciencias.
-- **Años de Estudio**: 2013-2019
+- **Años de Estudio**: 2014-2019
+
+## Experiencia Laboral
+- **Empresa**: Team Solutions.
+- **Puesto**: Desarrollador.
+- **Duración**: Febrero/2024 - Mayo/2024.
+- **Responsabilidades**:
+  - Desarrollo de la lógica principal de los proyectos.
+  - Quality Assurance.
+  - Asignación de tareas.
 
 ## Habilidades
 - **Habilidad 1** Conocimientos básicos en lenguajes de programación: C#, C++ y Python.
@@ -20,18 +29,10 @@
 - **Proyecto 1**: Wild Words.
   - **Descripción**: Juego de trivia interactivo que utiliza tecnología de reconocimiento de voz.
   - **Tecnologías Utilizadas**: C#.
-  - **Puesto**: Desarrollador.
-  - **Responsabilidades**:
-    - Desarrollo de la lógica principal del juego.
-    - Quality Assurance.
 
 - **Proyecto 2**: Sistema Empresarial.
   - **Descripción**: Sistema de gestión empresarial que abarca la administración de empresas, empleados y la generación de facturas.
   - **Tecnologías Utilizadas**: C#
-  - **Puesto**: Desarrollador.
-  - **Responsabilidades**:
-    - Desarrollo de la lógica principal del Sistema.
-    - Quality Assurance.
 
 ## Intereses
 - **Interés 1** Desarrollo Web.
